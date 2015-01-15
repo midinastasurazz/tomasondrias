@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomas Ondrias</title>
-    <description>Tomas Ondrias, opera singer.</description>
+    <description>Tomas Ondrias, opera singer, tenor.</description>
     <link>http://tomasondrias.com/</link>
     <atom:link href="http://tomasondrias.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 15 Jan 2015 14:12:12 +0100</pubDate>
-    <lastBuildDate>Thu, 15 Jan 2015 14:12:12 +0100</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2015 17:04:12 +0100</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2015 17:04:12 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
   </channel>
