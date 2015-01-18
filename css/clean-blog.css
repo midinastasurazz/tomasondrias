@@ -1,11 +1,11 @@
 body {
   /*font-family: 'Lora', 'Times New Roman', serif; */
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 16px;
   color: #404040;
   background-color: #F0EAD5;
 }
 p {
+  font-size: 12px;
   line-height: 1.5;
   margin: 30px 0;
 }
